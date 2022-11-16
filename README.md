@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @El-kindi
+- 👋 Hi, I’m @cafer_yahsi
 - 👋 I'm studying at Yıldız Teknik University
 - 👀 I’m interested in MachineLearning,DeepLearning,Data Visualization,Computer Vision
 - 🌱 I’m currently learning Computer Vision,AI
